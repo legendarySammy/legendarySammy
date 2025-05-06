@@ -1,4 +1,4 @@
-## Hi there, how do you do. My name is Sammy and I am a Junior in high school. 👋
+## Hi there! My name is Sammy and I am a Junior in high school. Have a great day :) 👋
 
 <!--
 **legendarySammy/legendarySammy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
