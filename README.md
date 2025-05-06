@@ -1,4 +1,4 @@
-## Hi there! My name is Sammy and I am a Junior in high school. Have a great day :) 👋
+## Hi there! I am a Junior in high school learning C# and am passioante for coding with many different languages. The current project I'm working on is in this repository which is just to get familiar with Github. As for my previous projects, I have worked on Unity to create a 2D Basketball Game solo and worked with a group for a NASA competition called the ADC. :) 👋
 
 <!--
 **legendarySammy/legendarySammy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
